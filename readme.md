@@ -1,4 +1,5 @@
 # ☁️ Criando e Gerenciando Máquinas Virtuais na Azure via System Center VMM
+## Autor: Valdir Torres Borges
 
 Este guia detalha o processo para criar uma máquina virtual (VM) na Microsoft Azure usando o **System Center Virtual Machine Manager (VMM)**, além de executar operações com discos como **redimensionamento**, **adição** e **desanexação** de discos de dados.
 
